@@ -1,0 +1,6 @@
+lastname,firstname,surname,organization,position,phone,email
+Иванов,Иван,Иванович,Минфин,начальник,8(495)123-45-67,ivanov@test.ru
+Петров,Петр,,Минфин,зам,+7 495 765-43-21 доб. 123,petrov@test.ru
+Иванов,Иван,,,,79991234567,
+Сидоров,,,ФНС,инспектор,8-999-111-22-33,sidorov@nalog.ru
+Петров,Пётр,Петрович,,,+7(495)765-43-21,petrov@test.ru
