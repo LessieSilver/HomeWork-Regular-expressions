@@ -11,6 +11,7 @@ def normalize_text(text):
 def format_phone(phone):
     if not phone or not phone.strip():
         return ""
+
     phone = phone.strip()
 
     ext_match = re.search(r'[дД][оО][бБ]\.?\s*(\d+)', phone)
