@@ -17,5 +17,5 @@ ENV/
 .DS_Store
 Thumbs.db
 
-phonebook.txt
-phonebook_raw.txt
+phonebook.csv
+phonebook_raw.csv
